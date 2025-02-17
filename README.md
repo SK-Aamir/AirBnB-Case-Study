@@ -1,3 +1,4 @@
+![image](https://images.surfacemag.com/app/uploads/2022/10/20115518/airbnb-logo.jpeg)
 # Airbnb-NYC-Case-Study
 
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Airbnb provides a platform for hosts to accommodate guests with short-term lodging and tourism-related activities.
